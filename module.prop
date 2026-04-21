@@ -1,0 +1,6 @@
+id=zram_optimizer
+name=ZRAM Fresh
+version=v0.1 - Lançamento inicial
+versionCode=1
+author=The Moon'X
+description=Otimiza a zRAM automaticamente. Detecta RAM, núcleos e clock da CPU para selecionar algoritmo e tamanho ideais. Testado e usado apenas no moto g05, dispositivos diferentes podem causar bugs e bootloops.
